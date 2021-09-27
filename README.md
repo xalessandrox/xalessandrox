@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xalessandrox
-- 👀 I’m interested in making things work
+- 👀 I like to work on interactions human/interface
 - 🌱 I’m currently learning Java
-- 💞️ I’m trying to make a little game work
+- 💞️ I’m trying to make my ideas work and my work to get done
 - 📫 You can reach me here
 
 <!---
